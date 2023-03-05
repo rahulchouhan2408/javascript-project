@@ -1,0 +1,23 @@
+body{
+    background: #3b7197;
+   display: grid;
+    place-items: center;
+    margin-top: 20%;
+    
+}
+.styling{
+     font-size: 32px;
+border: 3px solid  #46a094;
+    border-radius:30px;
+    padding: 10px;
+    text-align: center;
+    background: #fdd037;
+}
+.btn{
+    border-radius: 30px 100px;
+    padding: 20px;
+    background: #d83968;
+    font-size: 30px;
+    color: #e9eef2;
+    
+}
